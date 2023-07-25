@@ -6,7 +6,7 @@ from get_s7530_VNA_data_VISA import get_s7530_VNA_data_VISA
 from WF_SDK import device, static, supplies, error     # import instruments
 from time import sleep 
 
-#test commit
+#test commit2
 vna = get_s7530_VNA_data_VISA()
 
 
